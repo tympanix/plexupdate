@@ -1,0 +1,7 @@
+# Python env
+bin
+include
+lib
+local
+pip-selfcheck.json
+*.swp
